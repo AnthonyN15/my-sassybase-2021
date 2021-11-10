@@ -1,5 +1,7 @@
 $mybackground: green;
 
+@import "partials/toc";
+
 body{
     background: $mybackground;
-} 
+}
