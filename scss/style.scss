@@ -1,7 +1,14 @@
-$mybackground: green;
-
+/* IMPORTS */
 @import "partials/toc";
+@import "partials/typography";
 
-body{
-    background: $mybackground;
-}
+/* GLOBAL RESET */
+* { box-sizing: border-box; } 
+
+// VARIABLES
+$color-text-body: rgba(0,0,0,.8);
+$color-text-headings: rgba(0,0,0,1);
+
+$font-family-sans: Helvetica, Arial, Helvetica, sans-serif;
+$font-family-serif: Georgia, 'Times New Roman', Times, serif, 
+

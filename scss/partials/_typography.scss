@@ -1,0 +1,17 @@
+/* BASE TEXT COLORS */
+body {
+    color: $color-text-body;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: $color-text-headings;
+}
+
+/* BAE TEXT FONTS */
+
+body {
+    font-family: $font-family-sans;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+    color: $color-font-family-sans;
+}
