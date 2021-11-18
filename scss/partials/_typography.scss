@@ -2,9 +2,9 @@
 body { color: $color-text-body; }
 h1, h2, h3, h4, h5, h6 { color: $color-text-headings; }
 
-/* BAE TEXT FONTS */
+/* BASE TEXT FONTS */
 
-body { font-family: $cfont-family-sans }
+body { font-family: $font-family-sans }
 
 h1, h2, h3, h4, h5, h6 { color: $font-family-serif; }
 
@@ -47,7 +47,7 @@ hr {
     font-weight: normal;
     line-height: 1;
     margin: 0;
-    color: $color-accent;
+    color: $color-accent-dark;
 }
 
 .subheadline {
