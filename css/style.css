@@ -122,7 +122,7 @@ body {
   font-size: 87.5%;
 }
 
-@media (min-width: 1050px) {
+@media (min-width: 768px) {
   body {
     font-size: 100%;
   }
